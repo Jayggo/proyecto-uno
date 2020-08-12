@@ -3,3 +3,17 @@ body{
     font-family: Helvetica;
     background: radial-gradient(circle, darkgrey, #fff);
 }
+
+.main-container{
+
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+
+.sub-container{
+
+    background: rgba(0,0,0,0.4);
+    margin: 5px;
+    padding: 10px;
+}
